@@ -36,8 +36,8 @@ The frontend visualizes the data in a graph format:
 
 1. **Clone the repository:**
   ```sh
-   git clone https://github.com/RachelShimon/MicroserviceResourceBackend.git
-   cd microservice-resource-graph/backend
+   https://github.com/RachelShimon/MicroserviceResourceFrontend.git
+   cd MicroserviceResourceFrontend
    ```
    
 2. **Build the project:**
