@@ -17,7 +17,7 @@ This project includes:
 - React.js
 - React Flow (for rendering the graph)
 - Axios (for API requests)
-##Icons
+## Icons
 - Custom icons for programming languages (Java, Python, C#)
 - Custom icons for resource types and access levels
 # Project Structure
